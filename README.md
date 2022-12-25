@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wessim Meddeb</h1>
 <h3 align="center">A software engineering student</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React** and **cloud computing**
 
 - 📫 How to reach me **wessim.meddeb1@gmail.com**
 
