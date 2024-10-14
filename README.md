@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wessim Meddeb</h1>
 <h3 align="center">A software engineering student</h3>
 
-- 🌱 I’m currently learning **Nextjs** and **cloud computing**
+- 💻 I enjoy building projects with **React** on the front end and **.NET** on the back end
 
 - 📫 How to reach me **wessim.meddeb1@gmail.com**
 
