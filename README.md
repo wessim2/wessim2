@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wessim Meddeb</h1>
-<h3 align="center">A software engineering student</h3>
+<h3 align="center">Software engineering student</h3>
 
 - 💻 I enjoy building projects with **React** and **.NET**
 
