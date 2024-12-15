@@ -7,9 +7,7 @@
 
 <h3 align="left">Tech Stack:</h3>
 <p align="left">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,dotnet,postgres,docker" />
-  </a>
 </p>
 
 
