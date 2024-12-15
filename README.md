@@ -7,10 +7,10 @@
 
 <h3 align="left">Tech Stack:</h3>
 <p align="left">
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,dotnet,postgres,docker)](https://skillicons.dev)
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=react,nextjs,tailwind,dotnet,postgres,docker" />
+  </a>
 </p>
-
-
 
 
 <h3 align="left">Connect with me:</h3>
